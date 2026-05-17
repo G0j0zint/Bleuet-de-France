@@ -1,6 +1,6 @@
-# L'audace de résister 
+# Un devoir de mémoire
 
-## Alias et acide
+## Plus qu'un numéro
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/1c48e992-6f36-4c13-8ce9-adefea7ee547" />
 
