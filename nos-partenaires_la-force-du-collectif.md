@@ -2,6 +2,7 @@
 
 ## La force du collectif
 
+```
 Dans un des carnets de votre grand-père, une phrase est lourdement soulignée à l'encre rouge : « On ne résiste jamais seul. » Hier comme aujourd'hui, les grandes actions reposent sur la force du collectif. Si vous avez pu ouvrir cette valise et plonger dans ces archives, c'est grâce au soutien de trois acteurs majeurs qui font vivre la mémoire et la solidarité au quotidien. Nous tenions à prendre le temps de les remercier :
 
 Le Bleuet de France : Symbole de la mémoire et de la solidarité, qui accompagne et soutient les victimes de guerre, d'attentats, ainsi que les anciens combattants et leurs familles.
@@ -13,8 +14,15 @@ Nine Line : Association de terrain qui accompagne nos héros contemporains (mili
 Leurs actions donnent tout son sens à cette compétition et à vos recherches.
 
 Pour valider ce challenge d'introduction utilisez la citation soulignée par votre grand-père.
+```
 
-Format du flag : united_we_conquer
+----------------------------------------------------------------------------------------------------------------
+*Format du flag : united_we_conquer*
+
+----------------------------------------------------------------------------------------------------------------
+*Ressources : Aucune*
+
+----------------------------------------------------------------------------------------------------------------
 
 Les admins vérifient si on sait lire les énnoncés, ils ont raison, c'est un pré-requis important !
 
