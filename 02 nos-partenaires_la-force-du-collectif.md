@@ -2,19 +2,17 @@
 
 ## La force du collectif
 
-```
-Dans un des carnets de votre grand-père, une phrase est lourdement soulignée à l'encre rouge : « On ne résiste jamais seul. » Hier comme aujourd'hui, les grandes actions reposent sur la force du collectif. Si vous avez pu ouvrir cette valise et plonger dans ces archives, c'est grâce au soutien de trois acteurs majeurs qui font vivre la mémoire et la solidarité au quotidien. Nous tenions à prendre le temps de les remercier :
+> Dans un des carnets de votre grand-père, une phrase est lourdement soulignée à l'encre rouge : « On ne résiste jamais seul. » Hier comme aujourd'hui, les grandes actions reposent sur la force du collectif. Si vous avez pu ouvrir cette valise et plonger dans ces archives, c'est grâce au soutien de trois acteurs majeurs qui font vivre la mémoire et la solidarité au quotidien. Nous tenions à prendre le temps de les remercier :
 
-Le Bleuet de France : Symbole de la mémoire et de la solidarité, qui accompagne et soutient les victimes de guerre, d'attentats, ainsi que les anciens combattants et leurs familles.
+> Le Bleuet de France : Symbole de la mémoire et de la solidarité, qui accompagne et soutient les victimes de guerre, d'attentats, ainsi que les anciens combattants et leurs familles.
 
-L'Ordre de la Libération: Gardien de l'héritage des Compagnons de la Libération, qui veille à transmettre les valeurs d'engagement et de courage de ceux qui ont sauvé notre pays.
+> L'Ordre de la Libération: Gardien de l'héritage des Compagnons de la Libération, qui veille à transmettre les valeurs d'engagement et de courage de ceux qui ont sauvé notre pays.
 
-Nine Line : Association de terrain qui accompagne nos héros contemporains (militaires, pompiers, forces de l'ordre) blessés dans leur chair ou dans leur esprit, pour qu'ils ne soient jamais laissés pour compte.
+> Nine Line : Association de terrain qui accompagne nos héros contemporains (militaires, pompiers, forces de l'ordre) blessés dans leur chair ou dans leur esprit, pour qu'ils ne soient jamais laissés pour compte.
 
-Leurs actions donnent tout son sens à cette compétition et à vos recherches.
+> Leurs actions donnent tout son sens à cette compétition et à vos recherches.
 
-Pour valider ce challenge d'introduction utilisez la citation soulignée par votre grand-père.
-```
+> Pour valider ce challenge d'introduction utilisez la citation soulignée par votre grand-père.
 
 ----------------------------------------------------------------------------------------------------------------
 *Format du flag : united_we_conquer*
@@ -26,4 +24,4 @@ Pour valider ce challenge d'introduction utilisez la citation soulignée par vot
 
 Les admins vérifient si on sait lire les énnoncés, ils ont raison, c'est un pré-requis important !
 
-**flag : On_ne_résiste_jamais_seul**
+**flag : On_ne_résiste_jamais_seul** ✅
