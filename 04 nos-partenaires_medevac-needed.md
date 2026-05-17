@@ -4,11 +4,9 @@
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/c304bca3-946a-4cbd-a076-f6f49710f25a" />
 
-```
-Zone de combat. Un soldat est à terre. Son équipier saisit la radio. Il a 30 secondes pour transmettre 9 lignes d'information qui permettront d'envoyer un hélicoptère. Pas une de plus, pas une de moins, c'est la procédure OTAN. C'est de cette procédure que tire son nom l'association Nine Line : née de la reconstruction d'un soldat blessé, elle soutient aujourd'hui militaires, pompiers et forces de l'ordre qui souffrent en silence.
+> Zone de combat. Un soldat est à terre. Son équipier saisit la radio. Il a 30 secondes pour transmettre 9 lignes d'information qui permettront d'envoyer un hélicoptère. Pas une de plus, pas une de moins, c'est la procédure OTAN. C'est de cette procédure que tire son nom l'association Nine Line : née de la reconstruction d'un soldat blessé, elle soutient aujourd'hui militaires, pompiers et forces de l'ordre qui souffrent en silence.
 
-Voici un Nine Line intercepté. Décodez-le des lignes 3 à 4.
-```
+> Voici un Nine Line intercepté. Décodez-le des lignes 3 à 4.
 
 ----------------------------------------------------------------------------------------------------------------
 *Format du flag : soleil_pluie_moto (pas de chiffres, pas d'accents)*
@@ -45,4 +43,4 @@ BRAVO = treuil / hoist requis
 
 GG ChatGPT !
 
-**flag : urgent_prioritaire_treuil**
+**flag : urgent_prioritaire_treuil** ✅
