@@ -4,11 +4,9 @@
 
 <img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/d69b3ede-9a55-4357-be94-7ae1d0b618b8" />
 
-```
-Été 1940. La France vient de tomber. Un officier français rachète discrètement une propriété et y installe une équipe de cryptanalystes polonais qui, depuis un château de la zone libre, vont continuer à déchiffrer les messages de la Wehrmacht en secret. Ce centre clandestin porte le nom d'une ville portuaire, à l'autre bout d'une ancienne route romaine. Il a fonctionné pendant deux ans, transmettant ses résultats à Londres. Puis il a disparu. Retrouve sa trace.
+> Été 1940. La France vient de tomber. Un officier français rachète discrètement une propriété et y installe une équipe de cryptanalystes polonais qui, depuis un château de la zone libre, vont continuer à déchiffrer les messages de la Wehrmacht en secret. Ce centre clandestin porte le nom d'une ville portuaire, à l'autre bout d'une ancienne route romaine. Il a fonctionné pendant deux ans, transmettant ses résultats à Londres. Puis il a disparu. Retrouve sa trace.
 
-Une fois que vous avez retrouvé ce château, retrouvez le nom de code du site d’implantation de cette cellule de cryptoanalystes qui avait pris place ici. Également, trouvez qui en était au commandement.
-```
+> Une fois que vous avez retrouvé ce château, retrouvez le nom de code du site d’implantation de cette cellule de cryptoanalystes qui avait pris place ici. Également, trouvez qui en était au commandement.
 
 ----------------------------------------------------------------------------------------------------------------
 *Format du flag : nom_organisation_Pierre_Lambert*
@@ -32,4 +30,4 @@ https://fr.wikipedia.org/wiki/PC_Cadix
 
 https://www.defense.gouv.fr/drm/actualites/2e-bureau-matrice-du-renseignement-militaire-contemporain-laffaire-enigma-defaite-nazis-47
 
-**flag : PC_Cadix_Gustave_Bertrand**
+**flag : PC_Cadix_Gustave_Bertrand** ✅ 
