@@ -14,6 +14,8 @@
 ----------------------------------------------------------------------------------------------------------------
 *Ressources : [Archive audio]: ./Ressources/CTF_Bleuet_2K26_-_Alpha_ici_Bravo_-_audio.wav*
 
+![Archive audio]
+
 ----------------------------------------------------------------------------------------------------------------
 
 Une fois la bande son néttoyée du bruit a grand coup d'IA (pour les plus dur de la feuille;) on entend une annonce SNCF pour un train à destination de Briançon, qui passe par Embrun.
