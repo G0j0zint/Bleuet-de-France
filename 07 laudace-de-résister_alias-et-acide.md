@@ -24,4 +24,4 @@ BAM ! BAM ! BAM ! Efficace on a dit !
 
 **flag : lenormand_pastilles_abrasives** ✅
 
-> P.S: A partir du prochain challenge et jusqu'à ce que Sheeeeeee et Pl0k soient bloqués je ne flag plus... De vrais Lucky Luke ces 2 là !
+> P.S: A partir du prochain challenge et jusqu'à ce que Sheeeeeee et Pl0k soient bloqués je ne flag plus... De vrais Lucky Luke ces 2 là.
