@@ -12,7 +12,10 @@
 *Format du flag : Titre_musique*
 
 ----------------------------------------------------------------------------------------------------------------
-*Ressources : Aucune*
+*Ressources :*
+
+[Cassete abimée de papi]: ./Ressources/CTF_Bleuet_2K26_-_Des_mots_pour_contrer_les_maux_-_Cassette_abimee.mp3
+![Cassete abimée de papi]
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -23,3 +26,5 @@ Comme quoi ça sert d'avoir l'oreille musicale. "C'est l'oreille d'or du groupe.
 <img width="1253" height="623" alt="image" src="https://github.com/user-attachments/assets/94ad011e-76d0-4ad0-99d9-969d4771432d" />
 
 **flag : Chanson_d_automne** ✅
+
+> P.S: Il a finalement avoué avoir Shazam la musique, "le mythe est bridé"...
