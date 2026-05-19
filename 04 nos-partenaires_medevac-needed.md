@@ -44,3 +44,5 @@ BRAVO = treuil / hoist requis
 GG ChatGPT !
 
 **flag : urgent_prioritaire_treuil** ✅
+
+> P.S: Lire le P.S. du challenge 14 pour clore le débat intitulé "AI slop in CTF"
