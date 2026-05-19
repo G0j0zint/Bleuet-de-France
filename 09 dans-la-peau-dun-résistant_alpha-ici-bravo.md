@@ -14,8 +14,8 @@
 ----------------------------------------------------------------------------------------------------------------
 *Ressources :*
 
-[Archive audio]: ./Ressources/CTF_Bleuet_2K26_-_Alpha_ici_Bravo_-_audio.wav
-![Archive audio]
+[Archive d'un enregistrement radio intercepté en 1944]: ./Ressources/CTF_Bleuet_2K26_-_Alpha_ici_Bravo_-_audio.wav
+![Archive d'un enregistrement radio intercepté en 1944]
 
 ----------------------------------------------------------------------------------------------------------------
 
