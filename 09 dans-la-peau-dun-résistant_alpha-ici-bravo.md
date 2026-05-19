@@ -12,8 +12,9 @@
 *Format du flag : Nomcommune*
 
 ----------------------------------------------------------------------------------------------------------------
-*Ressources : [Archive audio]: ./Ressources/CTF_Bleuet_2K26_-_Alpha_ici_Bravo_-_audio.wav*
+*Ressources :*
 
+[Archive audio]: ./Ressources/CTF_Bleuet_2K26_-_Alpha_ici_Bravo_-_audio.wav
 ![Archive audio]
 
 ----------------------------------------------------------------------------------------------------------------
