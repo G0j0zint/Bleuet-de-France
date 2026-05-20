@@ -34,3 +34,5 @@ On tombe direct sur les 4 noms en légende de la photo !
 
 > P.S: Pl0k a mis en lumière une typo dans un des noms sur un [site du gouvernement](https://imagesdefense.gouv.fr/fr/executions-de-celestino-alfonso-joseph-boczow-emeric-glasz-et-marcel-rajman-resistants-francs-tireurs-et-partisans-de-la-main-d-oeuvre-immigree-ftp-moi-du-groupe-manouchian-au-mont-valerien-le-21-fevrier-1944.html
 ) Le R de Boczor devient un W soit Boczow. La légende raconte qu'il "boude toujours dans son coin" suite à la réclamation non faite pour son fail.
+
+<img width="640" height="354" alt="image" src="https://github.com/user-attachments/assets/466d41ae-5496-43dc-91a1-77d4afdf4e06" />
