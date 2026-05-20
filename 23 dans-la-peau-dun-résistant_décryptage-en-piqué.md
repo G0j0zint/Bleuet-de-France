@@ -27,7 +27,7 @@ On prend le relais avec Nico mais vu qu'on est un peu teuteu on tente le flag 06
 
 Après un tacle bien mérité de Pl0k, on trouve finalement [l'originale](https://www.facebook.com/Cindebrest/videos/archive-vid%C3%A9o-bombardements-de-brest-durant-la-seconde-guerre-mondiale/1306748970273899/)
 
-On se perd sur [youtube](https://www.youtube.com/watch?v=XnZq98Mx4E0)... On va [vraiment loin]()...
+On se perd sur [youtube](https://www.youtube.com/watch?v=XnZq98Mx4E0)... On va [vraiment loin](https://www.youtube.com/watch?v=aYsgsSo1aow&list=RDaYsgsSo1aow&start_radio=1)...
 
 Puis finalement, après 1h25 de recherches approfondies sur la Bataille de Brest on finit par revenir [au basique](https://fr.wikipedia.org/wiki/Bataille_de_Brest_(1944))
 
