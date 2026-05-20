@@ -1,4 +1,4 @@
-# L'audace de résister 
+# Un devoir de mémoire
 
 ## Les fusillés du Mont-Valérien 
 
@@ -23,6 +23,7 @@ Le lien de l'article n'est plus disponible...
 <img width="1820" height="968" alt="image" src="https://github.com/user-attachments/assets/86c20f96-b742-4b43-9bf5-8d522be13515" />
 
 Reflexe ? Webarchive !
+
 https://web.archive.org/web/20241110092447/https://www.fondationresistance.org/pages/rech_doc/photographie-liiNexy-cution-mont-valy-rien-membres-groupe-manouchian_photo15.htm
 
 On tombe direct sur les 4 noms en légende de la photo !
@@ -31,5 +32,5 @@ On tombe direct sur les 4 noms en légende de la photo !
 
 **flag : Alfonso_Boczor_Glasz_Rajman** ✅
 
-> P.S: Pl0k a mis en lumière une typo dans un des noms sur un site du [gouvernement](https://imagesdefense.gouv.fr/fr/executions-de-celestino-alfonso-joseph-boczow-emeric-glasz-et-marcel-rajman-resistants-francs-tireurs-et-partisans-de-la-main-d-oeuvre-immigree-ftp-moi-du-groupe-manouchian-au-mont-valerien-le-21-fevrier-1944.html
-) Le R de Boczor devient un W soit Boczow. La légende raconte qu'il "boude toujours dans son coin" suite à la réclamation à faire pour son fail.
+> P.S: Pl0k a mis en lumière une typo dans un des noms sur un [site du gouvernement](https://imagesdefense.gouv.fr/fr/executions-de-celestino-alfonso-joseph-boczow-emeric-glasz-et-marcel-rajman-resistants-francs-tireurs-et-partisans-de-la-main-d-oeuvre-immigree-ftp-moi-du-groupe-manouchian-au-mont-valerien-le-21-fevrier-1944.html
+) Le R de Boczor devient un W soit Boczow. La légende raconte qu'il "boude toujours dans son coin" suite à la réclamation non faite pour son fail.
